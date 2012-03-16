@@ -1,0 +1,18 @@
+{
+  "author": "Ryan Munro <munro.github@gmail.com> (http://0x0539.org/)",
+  "name": "geektalk",
+  "description": "Geektalk chat client",
+  "version": "0.0.0",
+  "homepage": "http://www.geektalk.org/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/munro/geektalk.js.git"
+  },
+  "main": "./lib/geektalk.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
